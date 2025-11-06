@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },   
      labels[0]: {
        "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
-       "images": ["https://8dogam.com/product/06f97bbd168c233b5debc7c18e7783ec?srsltid=AfmBOop8aMR_JwX9HXuoWZxaxRBVY8G6hFEWf-ccaVYOnJxFLQGVkA-U", "https://yjss.or.kr/49/?bmode=view&idx=14317402"],
+       "images": ["https://www.coupang.com/vp/products/6292832634", "https://yjss.or.kr/49/?bmode=view&idx=14317402"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
 
