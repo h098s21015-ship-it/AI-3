@@ -77,14 +77,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     
 labels[1]: {
-       "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
+       "texts": ["송어회는", "회", "입니다"],
        "images": ["https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
 
 
 labels[2]: {
-       "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
+       "texts": ["연어회는", "회", "입니다"],
        "images": ["https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
