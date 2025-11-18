@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["연어회는", "회", "입니다"],
-       "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800"]
+       "images": ["https://thingool123.godohosting.com/data/goods/20/10/44/1000016072/1000016072_detail_032.jpg"]
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
 
