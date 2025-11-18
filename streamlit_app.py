@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
-       "texts": ["방어회는", "회", "입니다"],
+       "texts": ["연어회는", "회", "입니다"],
        "images": ["https://thingool123.godohosting.com/data/goods/20/10/44/1000016072/1000016072_detail_032.jpg"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
@@ -84,7 +84,7 @@ labels[1]: {
 
 
 labels[2]: {
-       "texts": ["연어회는", "회", "입니다"],
+       "texts": ["방어회는", "회", "입니다"],
        "images": ["https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
