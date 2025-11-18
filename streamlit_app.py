@@ -68,8 +68,8 @@ st.markdown("---")
 # 각 라벨당 최대 3개씩 표시됩니다.
 # ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
-    # 예)
-    # labels[0]: {
+    
+     labels[0]: {
        "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
        "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800", "https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg", "https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
@@ -88,7 +88,7 @@ labels[2]: {
        "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800", "https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg", "https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
-    
+} 
 # ======================
 # 유틸
 # ======================
