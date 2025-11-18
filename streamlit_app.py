@@ -70,22 +70,22 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
-       "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
-       "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800", "https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg", "https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
+       "texts": ["연어회는", "회", "입니다"],
+       "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800"]
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
 
-
+    
 labels[1]: {
        "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
-       "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800", "https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg", "https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
+       "images": ["https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg"]
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
 
 
 labels[2]: {
        "texts": ["송어회, 연어회, 방어회는", "회", "입니다"],
-       "images": ["https://mblogthumb-phinf.pstatic.net/MjAxNjEyMjNfMTUy/MDAxNDgyNTAzNDM2NDky.INJTT8Mww-csBiRCMyO_yd0jKO0xNAwDxgVVoJizJDgg.k4cTnu6GlzL7BJBQ6NRQtySvuL3jG48JCcWKPNozdbcg.JPEG.iakim7214/IMG_3078.JPG?type=w800", "https://tong.visitkorea.or.kr/cms/resource/63/2788363_image2_1.jpg", "https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
+       "images": ["https://i.namu.wiki/i/lYlIV4bLNPfz6InMYxSb9agvbX9y-xEHGTjSRyDSWCwKz4epaJsoyeSg6bHfCjsLA3ifTZuBi3N__gjpou6hkw.webp"],
        "videos": ["https://www.youtube.com/watch?v=lHKVwQ2KgB4"]
      },
 } 
